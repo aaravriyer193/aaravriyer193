@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Find out more on [walnutlabs](https://walnutlabs.i
 
 - [Wally-AI-BOT](https://github.com/aaravriyer193/Wally-AI-BOT): An AI-powered assistant with smart automation.
 - [Event-Ally-ai-event-planner](https://github.com/aaravriyer193/Event-Ally-ai-event-planner): Your AI event planning companion.
-- [walnutlabs_portfolio](https://github.com/aaravriyer193/walnutlabs_portfolio): My portfolio and project showcase.
+- [walnutlabs_portfolio](https://walnutlabs.in): My portfolio and project showcase.
 - [Rock-Paper-Scissors-PREDICTOR-ML](https://github.com/aaravriyer193/Rock-Paper-Scissors-PREDICTOR-ML): A fun ML-powered game!
 
 ## 🛠️ Tech Stack
@@ -25,14 +25,10 @@ Welcome to my GitHub profile! Find out more on [walnutlabs](https://walnutlabs.i
 
 ## 📈 GitHub Stats
 
-![aaravriyer193's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaravriyer193&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaravriyer193&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/aaravriyer193)
-- [Twitter](https://twitter.com/aaravriyer193)
-- Email: aaravriyer193@gmail.com
+- Email: aaravriyer@gmail.com
 
 ---
 
