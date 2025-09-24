@@ -23,9 +23,6 @@ Welcome to my GitHub profile! Find out more on [walnutlabs](https://walnutlabs.i
 - **AI & ML:** TensorFlow, scikit-learn
 - **Tools:** Git, Docker, VS Code
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaravriyer193l)
 
 ## 🤝 Let's Connect
 - Email: aaravriyer@gmail.com
