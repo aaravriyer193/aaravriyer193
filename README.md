@@ -6,6 +6,8 @@ I don't build wrappers; I build engines. I am currently obsessed with multi-agen
 
 If I'm not in school, I'm writing code.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=aaravriyer193)](https://git.io/streak-stats)
+
 ---
 
 ## 🦍 Current Obsession: Gor://a Builder
