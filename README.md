@@ -26,14 +26,14 @@ I build autonomous software architectures, browser-based simulators, and low-lat
 
 ### 🚀 Technical Leadership & Flagship Production Systems
 
-####  **[Gorilla Builder](https://gorillabuilder.dev) // CEO & Lead Full-Stack Developer** [cite: 8]
+####  **[Gorilla Builder](https://gorillabuilder.dev) // CEO & Lead Full-Stack Developer**
  An open-source, agentic AI SaaS platform for automated full-stack application generation and deployment , funded with USD $20,000 by the E2B startup program.
 *  **Agentic Orchestration:** Developed an autonomous pipeline that generates complete production-ready apps (React frontends, Node.js/DB backends) with zero-config CI/CD deployment via GitHub and Vercel.
 *  **In-Browser Infrastructure:** Integrated StackBlitz WebContainers to instantiate instant, client-side sandboxed dev environments for real-time code editing and execution without local setup.
 *  **Multi-Modal Gateway:** Engineered an AI routing engine utilizing frontier LLMs (Kimi k2.5, MiniMax m2.5) supporting multi-agent skills, voice, image, and chat.
 *  **Codebase Scale:** Single-handedly architected and maintained a 19,000+ line Python, React, and Node.js multi-module system.
 
-####  **[SODMUN](https://sodmun.com) // Head of Technology** [cite: 16]
+####  **[SODMUN](https://sodmun.com) // Head of Technology**
  Designed and deployed the comprehensive technological infrastructure for a platform hosting over 1,000 active concurrent users.
 *  **Virtual Conferencing (meet.sodmun.com):** Implemented native WebRTC for low-latency audio/video networking alongside Google OAuth for secure user authentication.
 *  **Collaborative Engines (app.sodmun.com):** Built real-time collaborative document and spreadsheet editors featuring live transactional database syncing and peer-to-peer messaging networks.
