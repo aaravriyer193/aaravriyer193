@@ -4,7 +4,7 @@
 
 I build autonomous software architectures, browser-based simulators, and low-latency network infrastructure. School during the week, code in between, ship on weekends.
 
-![Profile Views](https://komarev.com/ghpvc/?username=<your-github-username>)
+![Profile Views](https://komarev.com/ghpvc/?username=aaravriyer193)
 
 ---
 
