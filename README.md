@@ -1,69 +1,30 @@
-# Aarav Iyer
+# Hi, I'm Aarav
 
-**Full-Stack Developer · AI Architect · Systems Builder**
+![Profile Views](https://komarev.com/ghpvc/?username=aaravriyer193&style=flat) --> THIS WAS NOT AT ALL FARMED
+[![Website](https://img.shields.io/badge/Portfolio-walnutlabs.in-blue?style=flat)](https://walnutlabs.in)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-blue?style=flat)](mailto:aaravriyer@gmail.com)
 
-I build autonomous software architectures, browser-based simulators, and low-latency network infrastructure. School during the week, code in between, ship on weekends.
+I'm a high school student who spends most of my free time writing code. I think you might enjoy getting to know me.
 
-![Profile Views](https://komarev.com/ghpvc/?username=aaravriyer193)
+I really love Python. If I need to build a backend or get a server running, I almost always reach for FastAPI. I just love how clean it is and how quickly I can turn an idea into something that actually works. 
 
----
+Beyond Python, I spend a lot of time figuring out how the web works. I like building full-stack apps, playing around with AI models, and learning how to make different systems talk to each other without crashing. 
 
-### 🛠️ The Tech Stack
+When I'm not dealing with schoolwork, I'm usually sitting at my computer, either learning a new framework or trying to fix a bug I just created. Right now, I'm trying to wrap my head around some lower-level languages like Rust and C, just to see how things work under the hood.
 
-*  **Languages:** TypeScript, JavaScript, Python, C/C++, HTML/CSS
-*  **Frontend & Architecture:** React, Node.js, Express, WebRTC, OAuth, FastAPI
-*  **AI & Machine Learning:** Custom MCP Swarms, LLM Fine-Tuning, HuggingFace APIs, Kimi k2.5, MiniMax m2.5
-*  **Infrastructure & Tools:** Vercel, Supabase, PostgreSQL, GitHub Actions, StackBlitz WebContainers, E2B
-* **Currently Learning:** Rust, WASM, Zig, CUDA, Compiler Design, Distributed Systems
+I'm always learning and always building, now with AI
 
----
+### What I use the most:
 
-### 🏆 The Highlights
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
-*  **Venture Backed:** Secured **$20,000 USD** in funding from the E2B startup program for Gorilla Builder.
-*  **System Scale:** Architected and deployed the complete digital infrastructure for **SODMUN**, the world's largest private teen-led Model UN conference serving 1000+ delegates.
-*  **Open Source Traction:** Fine-tuned and released **ChimpGPT Coder Elite (30B MoE)**, securing 600+ downloads on HuggingFace.
-
----
-
-### 🚀 Technical Leadership & Flagship Production Systems
-
-####  **[Gorilla Builder](https://gorillabuilder.dev) // CEO & Lead Full-Stack Developer**
- An open-source, agentic AI SaaS platform for automated full-stack application generation and deployment , funded with USD $20,000 by the E2B startup program.
-*  **Agentic Orchestration:** Developed an autonomous pipeline that generates complete production-ready apps (React frontends, Node.js/DB backends) with zero-config CI/CD deployment via GitHub and Vercel.
-*  **VM Infrastructure:** Integrated E2B sandboxes to instantiate instant, client-side sandboxed dev environments for real-time code editing and execution without local setup.
-*  **Multi-Modal Gateway:** Engineered an AI routing engine utilizing frontier LLMs (Kimi k2.5, MiniMax m2.5) supporting multi-agent skills, voice, image, and chat.
-*  **Codebase Scale:** Single-handedly architected and maintained a 19,000+ line Python, React, and Node.js multi-module system.
-
-####  **[SODMUN](https://sodmun.com) // Head of Technology**
- Designed and deployed the comprehensive technological infrastructure for a platform hosting over 1,000 active concurrent users.
-*  **Virtual Conferencing (meet.sodmun.com):** Implemented native WebRTC for low-latency audio/video networking alongside Google OAuth for secure user authentication.
-*  **Collaborative Engines (app.sodmun.com):** Built real-time collaborative document and spreadsheet editors featuring live transactional database syncing and peer-to-peer messaging networks.
-*  **Automation:** Integrated custom automated ROP (Rules of Procedure) LLM chatbots to resolve issues, and a full fledged portal.
-
----
-
-### 🗄️ Open Source, Custom LLMs & Deep Tech
-
-#### **Fine-Tuned LLMs**
-*  **ChimpGPT Coder Elite (30B MoE):** A 30b Mixture-of-Experts model with 3b active parameters optimized specifically for SWE-bench-style coding workflows (600+ downloads on HuggingFace).
-*  **MonkeGPT Vivace (0.5B):** Lightweight, hyper-fast base model experimentation (~500 downloads).
-
-#### **Web Applications & Simulators**
-*  **[Windy](https://windy.walnutlabs.in):** A client-side 2D Computational Fluid Dynamics (CFD) simulation tool designed for in-browser aerodynamic wind analysis.
-*  **[Muniverse](https://muniverse.social):** A full-stack, media-rich social networking platform featuring live database architectures and authentication hooks.
-*  **[NowNoted](https://nownoted.walnutlabs.in):** A free, open-source local hierarchical outliner built with an optimized nested structure.
-*  **[Finfluent](https://finfluent.me):** Financial Literacy app: Stop watching boring lectures. Finfluent uses interactive simulations and a personalized AI tutor to teach you Financial Literacy, Excel, and DCF Modeling.
-
-#### **Hardware & Systems**
-*  **Robotics Challenge:** Programmed and configured custom kinematic movement routines for a fully autonomous robot (1st Place, GMA Tech Day).
-*  **Arduino Integration:** Architected an automated rural water purifier prototype and deployed a physical digital "Gratitude Box" infrastructure utilizing custom microcontrollers.
-
----
-
-### 📡 Network Core
-
-*  **Portfolio:** [walnutlabs.in](https://walnutlabs.in)
-*  **GitHub:** [github.com/aaravriyer193](https://github.com/aaravriyer193)
-*  **HuggingFace:** [huggingface.co/aaravriyer193](https://huggingface.co/aaravriyer193)
-*  **Email:** aaravriyer@gmail.com
+### Let's connect:
+* **Site:** [walnutlabs.in](https://walnutlabs.in)
+* **GitHub:** [github.com/aaravriyer193](https://github.com/aaravriyer193)
+* **HuggingFace:** [aaravriyer193](https://huggingface.co/aaravriyer193)
