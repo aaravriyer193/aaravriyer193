@@ -1,6 +1,6 @@
 # Hi, I'm Aarav
 
-![Profile Views](https://komarev.com/ghpvc/?username=aaravriyer193&style=flat) --> THIS WAS NOT AT ALL FARMED
+![Profile Views](https://komarev.com/ghpvc/?username=aaravriyer193&style=flat)
 [![Website](https://img.shields.io/badge/Portfolio-walnutlabs.in-blue?style=flat)](https://walnutlabs.in)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-blue?style=flat)](mailto:aaravriyer@gmail.com)
 
@@ -11,6 +11,8 @@ I really love Python. If I need to build a backend or get a server running, I al
 Beyond Python, I spend a lot of time figuring out how the web works. I like building full-stack apps, playing around with AI models, and learning how to make different systems talk to each other without crashing. 
 
 When I'm not dealing with schoolwork, I'm usually sitting at my computer, either learning a new framework or trying to fix a bug I just created. Right now, I'm trying to wrap my head around some lower-level languages like Rust and C, just to see how things work under the hood.
+
+By the way, claude code is amazing, and I did not at all farm the profile views counter.
 
 I'm always learning and always building, now with AI
 
